@@ -6,7 +6,7 @@ The details of the movies(title, genre, runtime, rating, poster, etc) are fetche
 
 Don't worry if the movie that you are looking for is not auto-suggested. Just type the movie name and click on "enter"
 
-#Cosine Distance
+### Cosine Distance
 
 ![image](https://github.com/nishantsingha13/movie-recommendation/assets/103675762/091aa3a6-26af-4c4d-8d57-1f8c1f767cbb)
 
