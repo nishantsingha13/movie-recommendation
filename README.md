@@ -12,9 +12,8 @@ This system recommends movies similar to the ones a user likes based on content
   - **Manual Movie Selection:**
        - If the movie you’re searching for is not auto-suggested, you can manually type the name and press "Enter" to find it.
   - **Cosine Similarity:**
-
 ![image](https://github.com/nishantsingha13/movie-recommendation/assets/103675762/091aa3a6-26af-4c4d-8d57-1f8c1f767cbb)
- !
+ 
        - Cosine Distance is a metric used to measure how similar movies are, irrespective of their size or other properties.
        - It measures the cosine of the angle between two vectors projected in a multi-dimensional space.
        - The smaller the angle between the vectors, the higher the cosine similarity, indicating a stronger relationship between the movies.
