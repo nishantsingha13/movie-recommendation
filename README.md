@@ -2,7 +2,7 @@
 ### Deployed Project Link: https://movie2-lb8ajx5wyywxprvcp4w8am.streamlit.app/
 
 ## Overview:
-    This system recommends movies similar to the ones a user likes based on content 
+This system recommends movies similar to the ones a user likes based on content 
     features like genre, runtime, and rating.
   
 ## How It Works:
@@ -21,6 +21,7 @@
        - Advantage:
           - Even if two movies are distant by Euclidean distance (due to different sizes or ratings), they can still be closely related by cosine similarity.
 
+![image](https://github.com/user-attachments/assets/d8e4c12f-06da-448c-9663-3dbcefa14a8e)
 
 ## User Interface:
   - For a better user experience, the project uses **Streamlit**, which provides an intuitive and simple interface.
