@@ -1,5 +1,5 @@
 # movie-recommendation
-### Deployed Project:https://movie2-lb8ajx5wyywxprvcp4w8am.streamlit.app/
+### Deployed Project Link:https://movie2-lb8ajx5wyywxprvcp4w8am.streamlit.app/
 
 Content Based Recommender System recommends movies similar to the movie user likes.
 
