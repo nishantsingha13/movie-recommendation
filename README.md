@@ -1,5 +1,5 @@
 # movie-recommendation System
-### Deployed Project Link: https://movie2-lb8ajx5wyywxprvcp4w8am.streamlit.app/
+### Deployed Project Link: https://q6o6eqmcaitsaxgakcuvxz.streamlit.app/
 
 ## Overview:
 This system recommends movies similar to the ones a user likes based on content 
